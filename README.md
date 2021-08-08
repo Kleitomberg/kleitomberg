@@ -1,10 +1,8 @@
 ## Olá! 👋 Sou kleitomberg <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 👨‍🎓 Graduando em Gestão da Tecnologia da Informação no IF Sertão-PE;
-- 🔭 Atualmente estou trabalhando com Desenvolvimento de Sistemas WEB
-- 🌱 Estou aprendendo PHP, LARAVEL e POSTGRESQL 
 - 📫 Como chegar até mim: 
-- 🎒 Principais ferramentas: Visual Studio Code, GitHub e Trello
+- 🎒 Principais ferramentas: Visual Studio Code, GitHub e Figma
 
 ##
 
