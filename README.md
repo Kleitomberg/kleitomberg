@@ -21,14 +21,17 @@
 
  <div>
 <h2>Liguagens e Ferramentas:</h2> 
-<code><img height="35" width="35" src="https://github.com/herculanosilva/herculanosilva/blob/main/assets/html5-original.svg"></code>
-<code><img height="35" width="35" src="https://github.com/herculanosilva/herculanosilva/blob/main/assets/css3-original.svg"></code>
+<code><img height="35" width="35" src="https://github.com/Kleitomberg/kleitomberg/blob/main/assets/html5/html5-original.svg"></code>
+<code><img height="35" width="35" src="https://github.com/Kleitomberg/kleitomberg/blob/main/assets/css3/css3-original.svg"></code>
+  <code><img height="35" width="35" src="https://github.com/Kleitomberg/kleitomberg/blob/main/assets/javascript/javascript-original.svg"></code>
 <code><img height="35" width="35" src="https://github.com/herculanosilva/herculanosilva/blob/main/assets/bootstrap-plain.svg"></code>
-<code><img height="35" width="35" src="https://github.com/herculanosilva/herculanosilva/blob/main/assets/php-original.svg"></code>
-<code><img height="35" width="35" src="https://github.com/herculanosilva/herculanosilva/blob/main/assets/git-original.svg"></code>
-<code><img height="35" width="35" src="https://github.com/herculanosilva/herculanosilva/blob/main/assets/github-original.svg"></code>
-<code><img height="35" width="35" src="https://github.com/herculanosilva/herculanosilva/blob/main/assets/trello-plain-wordmark.svg"></code>
-<code><img height="35" width="35" src="https://github.com/herculanosilva/herculanosilva/blob/main/assets/vscode-original.svg"></code>
+<code><img height="35" width="35" src="https://github.com/Kleitomberg/kleitomberg/blob/main/assets/figma/figma-original.svg"></code>
+<code><img height="35" width="35" src="https://github.com/Kleitomberg/kleitomberg/blob/main/assets/firebase/firebase-plain-wordmark.svg"></code>
+<code><img height="35" width="35" src="https://github.com/Kleitomberg/kleitomberg/blob/main/assets/vscode/vscode-original.svg"></code>
+  <code><img height="35" width="35" src="https://github.com/Kleitomberg/kleitomberg/blob/main/assets/react/react-original.svg"></code>
+  
+  <code><img height="35" width="35" src="https://github.com/Kleitomberg/kleitomberg/blob/main/assets/aftereffects/aftereffects-original.svg"></code>
+  <code><img height="35" width="35" src="https://github.com/Kleitomberg/kleitomberg/blob/main/assets/photoshop/photoshop-line.svg"></code>
 
 
   </div><br>
