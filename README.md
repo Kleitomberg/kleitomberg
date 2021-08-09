@@ -23,15 +23,14 @@
 <h2>Liguagens e Ferramentas:</h2> 
 <code><img height="35" width="35" src="https://github.com/Kleitomberg/kleitomberg/blob/main/assets/html5/html5-original.svg"></code>
 <code><img height="35" width="35" src="https://github.com/Kleitomberg/kleitomberg/blob/main/assets/css3/css3-original.svg"></code>
-  <code><img height="35" width="35" src="https://github.com/Kleitomberg/kleitomberg/blob/main/assets/javascript/javascript-original.svg"></code>
+<code><img height="35" width="35" src="https://github.com/Kleitomberg/kleitomberg/blob/main/assets/javascript/javascript-original.svg"></code>
 <code><img height="35" width="35" src="https://github.com/herculanosilva/herculanosilva/blob/main/assets/bootstrap-plain.svg"></code>
-<code><img height="35" width="35" src="https://github.com/Kleitomberg/kleitomberg/blob/main/assets/figma/figma-original.svg"></code>
 <code><img height="35" width="35" src="https://github.com/Kleitomberg/kleitomberg/blob/main/assets/firebase/firebase-plain-wordmark.svg"></code>
 <code><img height="35" width="35" src="https://github.com/Kleitomberg/kleitomberg/blob/main/assets/vscode/vscode-original.svg"></code>
-  <code><img height="35" width="35" src="https://github.com/Kleitomberg/kleitomberg/blob/main/assets/react/react-original.svg"></code>
-  
-  <code><img height="35" width="35" src="https://github.com/Kleitomberg/kleitomberg/blob/main/assets/aftereffects/aftereffects-original.svg"></code>
-  <code><img height="35" width="35" src="https://github.com/Kleitomberg/kleitomberg/blob/main/assets/photoshop/photoshop-line.svg"></code>
+<code><img height="35" width="35" src="https://github.com/Kleitomberg/kleitomberg/blob/main/assets/react/react-original.svg"></code>
+  <code><img height="35" width="35" src="https://github.com/Kleitomberg/kleitomberg/blob/main/assets/figma/figma-original.svg"></code>
+<code><img height="35" width="35" src="https://github.com/Kleitomberg/kleitomberg/blob/main/assets/aftereffects/aftereffects-original.svg"></code>
+<code><img height="35" width="35" src="https://github.com/Kleitomberg/kleitomberg/blob/main/assets/photoshop/photoshop-line.svg"></code>
 
 
   </div><br>
@@ -43,10 +42,10 @@
    <a href="https://www.instagram.com/kleitomberg/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>   
    <a href="https://www.youtube.com/channel/UCOFpmcpvb_UmDlc1FoUX55Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
   
-   </div>
- ##
+  
+ 
  ![Snake animation](https://github.com/kleitomberg/herculanosilva/blob/output/github-contribution-grid-snake.svg)
-
+ </div>
   
 
  ##
