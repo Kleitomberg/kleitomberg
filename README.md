@@ -23,7 +23,8 @@
 <h2>Liguagens e Ferramentas:</h2> 
 <code><img height="35" width="35" src="https://github.com/Kleitomberg/kleitomberg/blob/main/assets/html5/html5-original.svg"></code>
 <code><img height="35" width="35" src="https://github.com/Kleitomberg/kleitomberg/blob/main/assets/css3/css3-original.svg"></code>
-  <code><img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+<code><img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+<code><img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png"></code>
 <code><img height="35" width="35" src="https://github.com/Kleitomberg/kleitomberg/blob/main/assets/javascript/javascript-original.svg"></code>
 <code><img height="35" width="35" src="https://github.com/herculanosilva/herculanosilva/blob/main/assets/bootstrap-plain.svg"></code>
 <code><img height="35" width="35" src="https://github.com/Kleitomberg/kleitomberg/blob/main/assets/firebase/firebase-plain-wordmark.svg"></code>
