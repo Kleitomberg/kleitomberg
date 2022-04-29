@@ -23,6 +23,7 @@
 <h2>Liguagens e Ferramentas:</h2> 
 <code><img height="35" width="35" src="https://github.com/Kleitomberg/kleitomberg/blob/main/assets/html5/html5-original.svg"></code>
 <code><img height="35" width="35" src="https://github.com/Kleitomberg/kleitomberg/blob/main/assets/css3/css3-original.svg"></code>
+  <code><img height="35" width="35" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
 <code><img height="35" width="35" src="https://github.com/Kleitomberg/kleitomberg/blob/main/assets/javascript/javascript-original.svg"></code>
 <code><img height="35" width="35" src="https://github.com/herculanosilva/herculanosilva/blob/main/assets/bootstrap-plain.svg"></code>
 <code><img height="35" width="35" src="https://github.com/Kleitomberg/kleitomberg/blob/main/assets/firebase/firebase-plain-wordmark.svg"></code>
@@ -37,7 +38,7 @@
 
  <div style="display: flex"> 
   <h2>Social Medias:</h2> 
-  <a href = "mailto:ozkberguinho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:kleitomberg.tech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://br.linkedin.com/in/kleitomberg-%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80-731605116" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://www.instagram.com/kleitomberg/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>   
    <a href="https://www.youtube.com/channel/UCOFpmcpvb_UmDlc1FoUX55Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
