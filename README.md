@@ -1,13 +1,9 @@
 ## Olá 👋 kabeh aqui, Prazer recebe-lo em meu perfil! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 👨‍🎓 Gestor da Tecnologia da Informação no IF Sertão-PE;
-- 🌵 Pernambucano
-- Aspirante a = {
- - 👨‍💻 Programador
- - 🎬 Vídeo Maker
- - 🎨 Designer
-  }
-- 🎒 Principais ferramentas: Visual Studio Code, GitHub e Figma
+- 👨‍🎓 Graduado em Gestor da Tecnologia da Informação;
+- 🎓 Especialização em Desenvolvimento de Software | Cin UFPE;
+- 👨‍💻 Programador
+ 
 
 ##
 
