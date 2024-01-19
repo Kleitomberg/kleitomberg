@@ -2,7 +2,6 @@
 
 - 👨‍🎓 Graduado em Gestor da Tecnologia da Informação;
 - 🎓 Especialização em Desenvolvimento de Software | Cin UFPE;
-- 💻 Residente | Empre Recife-PE
 - 👨‍💻 Programador
  
 
